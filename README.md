@@ -35,7 +35,7 @@ The `get_next_line` function uses a buffer to read chunks of data from a file de
 .
 ├── get_next_line.c       // Core function implementation
 ├── get_next_line_utils.c // Utility functions
-└── get_next_line.h       // Header file
+└── get_next_line.h       // Header file ```
 
 ---
 
@@ -43,4 +43,4 @@ The `get_next_line` function uses a buffer to read chunks of data from a file de
 .
 ├── get_next_line_bonus.c       // Core function implementation
 ├── get_next_line_utils_bonu.c // Utility functions
-└──  get_next_line_bonu.h       // Header file
+└──  get_next_line_bonu.h       // Header file````
